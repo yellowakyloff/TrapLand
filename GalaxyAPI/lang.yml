@@ -1197,16 +1197,15 @@ SKYBLOCK_SHOP_LOOT: Магазин различных предметов
 SKYBLOCK_SHOP_CUSTOM: Магазин редких предметов
 
 #SURVIVAL
-SURVIVAL_BOARD_NAME: '§6§lTrapLand'
+SURVIVAL_BOARD_NAME: '§6§l◀ §6§lTrap§f§lLand §6§l▶'
 SURVIVAL_BOARD_NICK_LINE: '§6§l┏ §fНик: §7§l'
 SURVIVAL_BOARD_GROUP_LINE: '§6§l┗ §fДонат: '
 SURVIVAL_BOARD_KILLS_LINE: '§6§l┏ §fУбийств: §a§l'
 SURVIVAL_BOARD_DEATHS_LINE: '§6§l⎪ §fСмертей: §c§l'
 SURVIVAL_BOARD_MONEY_LINE: '§6§l⎪ §fМонет: §e§l⛂'
 SURVIVAL_BOARD_COINS_LINE: '§6§l┗ §fКрышек: §a§lⓀ'
-SURVIVAL_BOARD_TITUL_LINE: '§6§l┏ §fТитул: '
-SURVIVAL_BOARD_LOCAL_ONLINE_LINE: '§6§l⎪ §fОнлайн: §a§l'
-SURVIVAL_BOARD_PLAYTIME_LINE: '§6§l┗ §fНаигранно времени: §a§l'
+SURVIVAL_BOARD_TITUL_LINE: '§6§l┏ §fТитул: §7§l'
+SURVIVAL_BOARD_LOCAL_ONLINE_LINE: '§6§l┗ §fОнлайн: §a§l'
 SURVIVAL_BOARD_SITE_LINE: '§6§l↳ §fСайт: §6§lwww.TrapLand.ru'
 ACHIEVEMENTS_MENU_ITEM_NAME: '§d§lДостижения §7(ПКМ)'
 ACHIEVEMENTS_MENU_ITEM_LORE:
