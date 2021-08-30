@@ -1198,7 +1198,7 @@ SKYBLOCK_SHOP_CUSTOM: Магазин редких предметов
 
 #SURVIVAL
 SURVIVAL_BOARD_NAME: '§6§l◀ §6§lTrap§f§lLand §6§l▶'
-SURVIVAL_BOARD_NICK_LINE: '§6§l┏ §fНик: §7§l'
+SURVIVAL_BOARD_NICK_LINE: '§6§l┏ §fНик: §6§l'
 SURVIVAL_BOARD_GROUP_LINE: '§6§l┗ §fДонат: '
 SURVIVAL_BOARD_KILLS_LINE: '§6§l┏ §fУбийств: §a§l'
 SURVIVAL_BOARD_DEATHS_LINE: '§6§l⎪ §fСмертей: §c§l'
@@ -1257,7 +1257,7 @@ JOBS_WOODCUTTER_BREAK_WOOD: '§6Работа §8| §fВы получили §e%2
 JOBS_WOODCUTTER_BREAK_TREE: '§6Работа §8| §fВы срубили дерево и получили §e%s⛂§f. §aПолучите §fденьги у лесоруба §7(ПКМ)'
 
 JOBS_WOOD_BOARD_NAME: '§a§l◀ §a§lTrap§f§lWood §a§l▶'
-JOBS_WOOD_BOARD_NICK_LINE: '§a§l┏ §fНик: §7§l'
+JOBS_WOOD_BOARD_NICK_LINE: '§a§l┏ §fНик: §a§l'
 JOBS_WOOD_BOARD_GROUP_LINE: '§a§l┗ §fДонат: '
 JOBS_WOOD_BOARD_MINED_LINE: '§a§l┏ §fДобыто дерев: §a§l'
 JOBS_WOOD_BOARD_BOOSTER_LINE: '§a§l⎪ §fБустер: §a§lx'
@@ -1266,7 +1266,7 @@ JOBS_WOOD_BOARD_SALARY_LINE: '§a§l┗ §fЗарплата: §a§l'
 JOBS_WOOD_BOARD_SITE_LINE: '§a§l↳ §fСайт: §a§lwww.TrapLand.ru'
 
 JOBS_MINE_BOARD_NAME: '§e§l◀ §e§lTrap§f§lCave §e§l▶'
-JOBS_MINE_BOARD_NICK_LINE: '§e§l┏ §fНик: §7§l'
+JOBS_MINE_BOARD_NICK_LINE: '§e§l┏ §fНик: §e§l'
 JOBS_MINE_BOARD_GROUP_LINE: '§e§l┗ §fДонат: '
 JOBS_MINE_BOARD_MINED_LINE: '§e§l┏ §fДобыто дерев: §e§l'
 JOBS_MINE_BOARD_BOOSTER_LINE: '§e§l⎪ §fБустер: §e§lx'
