@@ -1256,8 +1256,8 @@ FLY_DISABLE: '§6§lСЕРВЕР: §fВы §cвыключили §fрежим п
 FLY_DISABLE_TO: '§6§lСЕРВЕР: §fВы §cвыключили §fрежим полета игроку §a%s'
 TPTOGGLE_ENABLE: '§6§lСЕРВЕР: §fТелепортации §aвключены'
 TPTOGGLE_DISABLE: '§6§lСЕРВЕР: §fТелепортации §cотключены'
-VANISH_ENABLE: '§6§lСЕРВЕР: §fВы §aвключили §fрежим невидимости
-VANISH_DISABLE: '§6§lСЕРВЕР: §fВы §cвыключили §fрежим невидимости
+VANISH_ENABLE: '§6§lСЕРВЕР: §fВы §aвключили §fрежим невидимости'
+VANISH_DISABLE: '§6§lСЕРВЕР: §fВы §cвыключили §fрежим невидимости'
 VANISH_ACTIONBAR: '§aВы находитесь в режиме невидимости'
 GAMEMODE_FORMAT_NO_ARGS: '§6§lСЕРВЕР: §fУкажите §cрежим §f- §a/gamemode [режим]'
 GAMEMODE: '§6§lСЕРВЕР: §fРежим §a%s §fвключен'
