@@ -1184,7 +1184,7 @@ SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lTrap§f§lLand §6§l▶'
 SURVIVAL_JOIN_SUBTITLE: '§fДобро пожаловать на §e§lвыживание'
 
 HOLOGRAM_KILLS_TOP_LINES:
-- '§8§l« §a§lТоп по убийствам §8§l»'
+- '§8§l« §a§lТоп по убийст1вам §8§l»'
 - '§fСамые сильные игроки'
 - '{time}'
 - '§7Нажмите здесь, чтобы сменить'
