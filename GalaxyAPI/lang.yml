@@ -1160,7 +1160,6 @@ SURVIVAL_BOARD_MONEY_LINE: '  §6┇§f §fБаланс: §e⛂§6'
 SURVIVAL_BOARD_COINS_LINE: '  §6┗§f §fКрышек: §d0§5₱'
 SURVIVAL_BOARD_INFORMATION_LINE: ' §6§lИНФОРМАЦИЯ:'
 SURVIVAL_BOARD_ONLINE_LINE: '  §6┏§f §fОнлайн: §6'
-SURVIVAL_BOARD_PLAYED_TIME_LINE: '  §6┗§f §fНаигранно: §6'
 SURVIVAL_BOARD_SITE_LINE: ' §6§l↳ §fСайт: §6§lwww.UnixMine.ru'
 
 ACHIEVEMENTS_MENU_ITEM_NAME: '§d§lДостижения §7(ПКМ)'
