@@ -1184,19 +1184,19 @@ SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lTrap§f§lLand §6§l▶'
 SURVIVAL_JOIN_SUBTITLE: '§fДобро пожаловать на §e§lвыживание'
 
 HOLOGRAM_KILLS_TOP_LINES:
-- '§8§l« §a§lТоп по убийствам §8§l»'
+- '§6§l⤊ §4§lТ§c§lОП ПО §4§lУ§c§lБИЙСТВАМ'
 - '§fСамые сильные игроки'
 - '{time}'
 - '§7Нажмите здесь, чтобы сменить'
 - '{item:351:10}'
 HOLOGRAM_DEATHS_TOP_LINES:
-- '§8§l« §c§lТоп по смертям §8§l»'
+- '§6§l⤊ §4§lТ§c§lОП ПО §4§lС§c§lМЕРТЯМ'
 - '§fСамые слабые игроки'
 - '{time}'
 - '§7Нажмите здесь, чтобы сменить'
 - '{item:351:1}'
 HOLOGRAM_MONEY_TOP_LINES:
-- '§8§l« §e§lТоп по монетам §8§l»'
+- '§6§l⤊ §4§lТ§c§lОП ПО §4§lБ§c§lАЛАНСУ'
 - '§fСамые богатые игроки'
 - '{time}'
 - '§7Нажмите здесь, чтобы сменить'
@@ -1231,8 +1231,8 @@ JOBS_MINE_BOARD_BOOSTER_LINE: '§3§f Бустер: §ex'
 JOBS_MINE_BOARD_COMBO_LINE: '§2§f Комбо: §ex'
 JOBS_MINE_BOARD_SITE_LINE: '§0 §e§l↳ §fСайт: §e§lwww.TrapLand.ru'
 
-MINER_TOP_HEADER: '§e§lТОП ШАХТЕРОВ'
-WOODCUTTER_TOP_HEADER: '§a§lТОП ЛЕСОРУБОВ'
+MINER_TOP_HEADER: '§6§l⤊ §4§lТ§c§lОП §4§lШ§c§lАХТЕРОВ'
+WOODCUTTER_TOP_HEADER: '§6§l⤊ §4§lТ§c§lОП §4§lЛ§c§lЕСОРУБОВ'
 #LOBBY
 LOBBY_BOARD_NAME: '§6§lTrapLand §8» §e§lХаб'
 LOBBY_BOARD_DATE_LINE: '    §7'
